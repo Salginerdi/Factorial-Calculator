@@ -1,2 +1,2 @@
-# JS_Faktoriyel_Hesaplama-for-
-JavaScript For Döngüsü ile Faktoriyel Hesaplama Uygulaması
+# Factorial Calculator with JavaScript
+I just made a factorial calculation application using a JavaScript for loop.
